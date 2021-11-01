@@ -6,7 +6,7 @@ License: See LICENSE.txt
 
 Description: Detection of R-peaks of given compressed sensed ECG signal. We delineated our approach in [this manuscript](https://ieeexplore.ieee.org/abstract/document/8038020). 
 
- `Demo.m` provide an example of R-peaks detection when using compressive sensing on an ECG signal.
+ `Demo.m` provide an example of how to use the CMSF tools for R-peaks detection on a compressed ECG signal.
 
 ### Citation
 
