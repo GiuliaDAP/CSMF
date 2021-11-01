@@ -2,7 +2,7 @@
 
 Contact: Giulia Da Poian, ETH Zurich <gdpaoian@ethz.ch>
 
-License: GPLv3; See LICENSE.txt
+License: See LICENSE.txt
 
 Description: Detection of R-peaks of given compressed sensed ECG signal. We delineated our approach in [this manuscript](https://ieeexplore.ieee.org/abstract/document/8038020). 
 
